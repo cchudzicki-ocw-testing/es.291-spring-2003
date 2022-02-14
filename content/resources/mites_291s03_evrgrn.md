@@ -3,7 +3,12 @@ content_type: resource
 description: 'This resource contains the information regarding evergreen: ever green?'
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/es-291-learning-seminar-experiments-in-education-spring-2003/7bc470b31c6345c3d062d02e8f6c2963_MITES_291S03_evrgrn.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: 'Evergreen: Ever Green?'
+type: OCWFile
 uid: 7bc470b3-1c63-45c3-d062-d02e8f6c2963
 ---

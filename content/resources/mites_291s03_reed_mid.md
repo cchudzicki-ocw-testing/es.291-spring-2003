@@ -3,7 +3,12 @@ content_type: resource
 description: 'This resource contains the information regarding reed: a middle course.'
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/es-291-learning-seminar-experiments-in-education-spring-2003/12f407263a1ca264d8ba263fadd2baab_MITES_291S03_reed_mid.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: 'Reed: A Middle Course'
+type: OCWFile
 uid: 12f40726-3a1c-a264-d8ba-263fadd2baab
 ---

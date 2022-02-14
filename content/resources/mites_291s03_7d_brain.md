@@ -4,7 +4,12 @@ description: This resource contains the information regarding use both Sides of 
   brain.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/es-291-learning-seminar-experiments-in-education-spring-2003/4a3cf7a890c6fb2cdb06e67a85155427_MITES_291S03_7d_brain.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: Use Both Sides of Your Brain
+type: OCWFile
 uid: 4a3cf7a8-90c6-fb2c-db06-e67a85155427
 ---

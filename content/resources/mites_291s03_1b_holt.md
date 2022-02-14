@@ -4,7 +4,12 @@ description: This resource contains the information regarding how children fail,
   holt.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/es-291-learning-seminar-experiments-in-education-spring-2003/89082e0380b89fea561c10c691df5ae0_MITES_291S03_1b_holt.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: How Children Fail, John Holt
+type: OCWFile
 uid: 89082e03-80b8-9fea-561c-10c691df5ae0
 ---

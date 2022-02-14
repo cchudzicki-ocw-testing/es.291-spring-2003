@@ -4,7 +4,12 @@ description: "This resource contains the information regarding study of two expe
   \ educational programs at M.I.T.\r\n\r\n\r\n"
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/es-291-learning-seminar-experiments-in-education-spring-2003/f215b182a9e7eebe3e7ca6bb83369f97_MITES_291S03_parlett_fnl.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: Study of Two Experimental Educational Programs at M.I.T.
+type: OCWFile
 uid: f215b182-a9e7-eebe-3e7c-a6bb83369f97
 ---
