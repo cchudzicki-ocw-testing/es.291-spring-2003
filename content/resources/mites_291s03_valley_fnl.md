@@ -10,6 +10,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: 'My Years in the M.I.T Experimental Study Group '
-type: OCWFile
 uid: be1c770e-07c7-1e8a-eeb9-c52def9f20ee
 ---

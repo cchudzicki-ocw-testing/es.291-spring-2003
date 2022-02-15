@@ -10,6 +10,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: 'Black Mountain: Meteor Among Mavericks'
-type: OCWFile
 uid: 8861c708-3298-f3ff-a4a1-f9199e3ea148
 ---

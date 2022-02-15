@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: Deschooling Our Lives
-type: OCWFile
 uid: 42157074-21fe-7850-2161-e143d069ad92
 ---

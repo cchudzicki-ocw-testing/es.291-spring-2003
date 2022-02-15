@@ -10,6 +10,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: "St. John\u2019s: Back to Classics"
-type: OCWFile
 uid: 50ba1d2f-67f8-6ef2-892a-cb33dc3d3a32
 ---

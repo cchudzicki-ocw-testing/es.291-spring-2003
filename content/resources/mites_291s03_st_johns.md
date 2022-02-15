@@ -10,6 +10,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: St. John's College Viewbook
-type: OCWFile
 uid: 38d2acc6-0f4c-7a14-bebe-b3655c92ad6d
 ---

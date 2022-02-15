@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: The Torch or the Firehouse
-type: OCWFile
 uid: 5f231d07-4d4d-f7ce-4f30-e4101b8381c1
 ---

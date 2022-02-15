@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: Wad-ja-get
-type: OCWFile
 uid: 6e3f4b3c-480e-1fad-2b8c-b8c995ece9fa
 ---

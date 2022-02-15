@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: Zen and the Art of Motorcycle Maintenance
-type: OCWFile
 uid: 5ee7120b-ea1a-fdf3-084f-deac5877b172
 ---

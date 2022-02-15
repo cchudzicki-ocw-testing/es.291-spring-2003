@@ -10,6 +10,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: 'Deep Springs: Loyalty to a Fault? '
-type: OCWFile
 uid: cb790e2d-c117-57ec-845e-788296285442
 ---

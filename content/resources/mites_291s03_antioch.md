@@ -10,6 +10,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: 'Antioch: Vision and Revision'
-type: OCWFile
 uid: 4c19ab24-b75c-771e-9c5e-9a21f7d61a6f
 ---

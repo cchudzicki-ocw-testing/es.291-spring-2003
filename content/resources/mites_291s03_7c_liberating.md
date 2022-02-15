@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: Liberating Education
-type: OCWFile
 uid: 14fe481e-b816-1743-a041-93be9ae5a9ed
 ---

@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: An Option for Intellectual Autonomy
-type: OCWFile
 uid: e93acfa8-14ee-b15a-7892-5b8388c70d44
 ---

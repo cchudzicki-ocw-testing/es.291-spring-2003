@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: Use Both Sides of Your Brain
-type: OCWFile
 uid: 4a3cf7a8-90c6-fb2c-db06-e67a85155427
 ---

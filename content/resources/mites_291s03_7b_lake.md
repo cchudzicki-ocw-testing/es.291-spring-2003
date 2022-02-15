@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: Integrated Curriculum
-type: OCWFile
 uid: 5e2ebcb8-bc79-718b-54e5-ad26bbdb5bfe
 ---

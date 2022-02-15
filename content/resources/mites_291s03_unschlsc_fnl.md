@@ -9,6 +9,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: Unschooling Science
-type: OCWFile
 uid: 21323942-437c-a0ac-8ff0-44e818f59781
 ---

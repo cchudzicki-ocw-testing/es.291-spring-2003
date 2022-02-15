@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: Mathematical Problem Solving
-type: OCWFile
 uid: 65f8acf1-6ed6-737e-8f32-c58988f70d1c
 ---

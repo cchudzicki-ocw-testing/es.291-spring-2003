@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: Education is neither straight-forward nor well-defined
-type: OCWFile
 uid: c5e839ab-b47e-1fbc-d938-f2fcbad16542
 ---

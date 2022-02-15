@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: How Children Fail, John Holt
-type: OCWFile
 uid: 89082e03-80b8-9fea-561c-10c691df5ae0
 ---

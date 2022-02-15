@@ -9,6 +9,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: 'Special Issue: A Bibliography'
-type: OCWFile
 uid: 3f792161-0fda-2093-305c-d5aeb54037be
 ---

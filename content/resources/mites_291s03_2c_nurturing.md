@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: Nurturing Talent and Creativity in the Arts
-type: OCWFile
 uid: 3395c77a-7afd-e010-793b-e13360d12a0f
 ---

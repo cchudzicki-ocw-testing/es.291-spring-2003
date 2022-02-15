@@ -10,6 +10,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: Homeschool Resource Centers
-type: OCWFile
 uid: ad27ba3b-2340-7061-3d7c-fd2788047a79
 ---

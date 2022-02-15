@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: 'Evergreen: Ever Green?'
-type: OCWFile
 uid: 48e36eeb-623f-b3f8-7878-96953310f61e
 ---
