@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: How Children Fail, John Holt
 uid: 89082e03-80b8-9fea-561c-10c691df5ae0
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

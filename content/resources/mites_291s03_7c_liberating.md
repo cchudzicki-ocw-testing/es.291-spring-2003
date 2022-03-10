@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: Liberating Education
 uid: 14fe481e-b816-1743-a041-93be9ae5a9ed
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

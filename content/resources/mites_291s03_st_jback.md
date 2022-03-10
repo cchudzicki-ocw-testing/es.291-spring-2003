@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: "St. John\u2019s: Back to Classics"
 uid: 50ba1d2f-67f8-6ef2-892a-cb33dc3d3a32
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

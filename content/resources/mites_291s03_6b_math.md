@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: Mathematical Problem Solving
 uid: 65f8acf1-6ed6-737e-8f32-c58988f70d1c
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

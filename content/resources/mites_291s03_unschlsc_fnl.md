@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: Unschooling Science
 uid: 21323942-437c-a0ac-8ff0-44e818f59781
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

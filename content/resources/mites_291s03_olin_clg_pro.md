@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'A Prospectus: Franklin W. Olin College of Engineering'
 uid: bdaa848e-8488-838a-df11-82f659922642
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

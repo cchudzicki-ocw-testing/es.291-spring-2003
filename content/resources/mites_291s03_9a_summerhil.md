@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'Summerhill: A Radical Approach to Child Rearing'
 uid: 077cf3dc-ec31-bbe6-5a14-0991e738f687
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'Antioch: Vision and Revision'
 uid: 48747e61-7da0-9a32-cf9f-df8137d47150
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

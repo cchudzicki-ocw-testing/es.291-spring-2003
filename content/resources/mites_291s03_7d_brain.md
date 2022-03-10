@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: Use Both Sides of Your Brain
 uid: 4a3cf7a8-90c6-fb2c-db06-e67a85155427
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

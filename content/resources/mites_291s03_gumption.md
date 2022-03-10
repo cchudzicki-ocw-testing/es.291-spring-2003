@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: Proposal for the Learning Center
 uid: c712958b-183a-1ceb-cdb1-9f11cd9c9f40
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

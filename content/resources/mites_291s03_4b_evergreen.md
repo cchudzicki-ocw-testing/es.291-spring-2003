@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'Evergreen: Ever Green?'
 uid: 48e36eeb-623f-b3f8-7878-96953310f61e
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

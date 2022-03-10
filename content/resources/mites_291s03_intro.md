@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: Education is neither straight-forward nor well-defined
 uid: c5e839ab-b47e-1fbc-d938-f2fcbad16542
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

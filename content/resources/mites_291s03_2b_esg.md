@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: An Option for Intellectual Autonomy
 uid: e93acfa8-14ee-b15a-7892-5b8388c70d44
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

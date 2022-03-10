@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'Special Issue: A Bibliography'
 uid: 3f792161-0fda-2093-305c-d5aeb54037be
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

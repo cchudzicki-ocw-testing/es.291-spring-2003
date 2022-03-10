@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'My Years in the M.I.T Experimental Study Group '
 uid: be1c770e-07c7-1e8a-eeb9-c52def9f20ee
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

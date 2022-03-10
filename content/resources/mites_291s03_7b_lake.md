@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: Integrated Curriculum
 uid: 5e2ebcb8-bc79-718b-54e5-ad26bbdb5bfe
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

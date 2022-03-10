@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: Deschooling Our Lives
 uid: 42157074-21fe-7850-2161-e143d069ad92
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

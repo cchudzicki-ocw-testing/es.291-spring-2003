@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: Homeschool Resource Centers
 uid: ad27ba3b-2340-7061-3d7c-fd2788047a79
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

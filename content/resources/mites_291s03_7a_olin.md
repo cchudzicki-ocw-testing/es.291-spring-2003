@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: Olin College Prospectus
 uid: 0b6e6bab-db71-586f-f2cd-96fd96275a0f
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

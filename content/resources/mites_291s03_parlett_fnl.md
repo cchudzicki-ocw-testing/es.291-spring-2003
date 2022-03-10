@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: Study of Two Experimental Educational Programs at M.I.T.
 uid: f215b182-a9e7-eebe-3e7c-a6bb83369f97
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

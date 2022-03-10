@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'Prescott: From Parson to Parsimony'
 uid: 5f4f2594-0bb5-cc3b-5d40-aec6cdcd023c
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

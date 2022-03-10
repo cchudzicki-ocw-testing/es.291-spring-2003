@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: Fourteen Notable Experiments in American Undergraduate Education
 uid: d8656a9c-2abc-2e42-5f04-8819b198070f
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

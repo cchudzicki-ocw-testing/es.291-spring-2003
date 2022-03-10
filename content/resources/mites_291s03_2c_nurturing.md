@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: Nurturing Talent and Creativity in the Arts
 uid: 3395c77a-7afd-e010-793b-e13360d12a0f
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Assignments
 uid: b3eb4e3d-f5c1-d417-8249-910fc247a57b
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 This page contains discussion questions associated with many of the readings, to guide in-class discussion.

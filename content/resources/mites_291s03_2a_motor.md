@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: Zen and the Art of Motorcycle Maintenance
 uid: 5ee7120b-ea1a-fdf3-084f-deac5877b172
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

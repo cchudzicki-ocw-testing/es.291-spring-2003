@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Readings
 uid: 4d84aa76-2064-bcc5-1c59-f11d486df224
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 This page contains many readings in educational research and alternative programs. 

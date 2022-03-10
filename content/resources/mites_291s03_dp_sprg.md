@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'Deep Springs: Loyalty to a Fault? '
 uid: cb790e2d-c117-57ec-845e-788296285442
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

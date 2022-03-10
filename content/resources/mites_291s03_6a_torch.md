@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: The Torch or the Firehouse
 uid: 5f231d07-4d4d-f7ce-4f30-e4101b8381c1
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
