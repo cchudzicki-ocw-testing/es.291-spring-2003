@@ -149,9 +149,9 @@ Neill, A. S. _Summerhill: A Radical Approach to Child Rearing_. New York, NY: Ha
 
 Hern, Matt. _Deschooling Our Lives_. Gabriola Island, Canada: New Society Publishers, 1998, chapters 6-8, 18. ISBN: 9780865713420.
 
-"Unschooling Science." _GWS_ 143 (November/December 2001): 11-13. (Courtesy of Holt Associates, Inc. Used with permission.) (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 21323942-437c-a0ac-8ff0-44e818f59781 "PDF" %}})
+"Unschooling Science." _GWS_ 143 (November/December 2001): 11-13. (Courtesy of Holt Associates, Inc. Used with permission.) ({{% resource_link 21323942-437c-a0ac-8ff0-44e818f59781 "PDF" %}})
 
-"Homeschool Resource Centers." _GWS_ 139 (November/December 1999): 15-21. (Courtesy of Holt Associates, Inc. Used with permission.) (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link ad27ba3b-2340-7061-3d7c-fd2788047a79 "PDF - 2.2 MB" %}})
+"Homeschool Resource Centers." _GWS_ 139 (November/December 1999): 15-21. (Courtesy of Holt Associates, Inc. Used with permission.) ({{% resource_link ad27ba3b-2340-7061-3d7c-fd2788047a79 "PDF - 2.2 MB" %}})
 
 
 {{< tdclose >}}
@@ -226,7 +226,7 @@ Rimmer, Robert H. _The Harrad Experiment_. Buffalo, NY: Prometheus Books, 1990, 
 
 Rising, James. "Proposal for The Gumption Asylum." ({{% resource_link c712958b-183a-1ceb-cdb1-9f11cd9c9f40 "PDF - 4.7 MB" %}})
 
-New Schools Exchange Special Issue: A Bibliography (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 3f792161-0fda-2093-305c-d5aeb54037be "PDF - 1.7 MB" %}})
+New Schools Exchange Special Issue: A Bibliography ({{% resource_link 3f792161-0fda-2093-305c-d5aeb54037be "PDF - 1.7 MB" %}})
 
 Levensky, Mark. "Some Advice About Starting Experimental Programs in Otherwise Traditional Schools."
 
