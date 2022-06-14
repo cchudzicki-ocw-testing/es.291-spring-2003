@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding integrated curriculum.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/es-291-learning-seminar-experiments-in-education-spring-2003/5e2ebcb8bc79718b54e5ad26bbdb5bfe_MITES_291S03_7b_lake.pdf
+file: /courses/es-291-learning-seminar-experiments-in-education-spring-2003/5e2ebcb8bc79718b54e5ad26bbdb5bfe_MITES_291S03_7b_lake.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -17,3 +17,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+This resource contains the information regarding integrated curriculum.

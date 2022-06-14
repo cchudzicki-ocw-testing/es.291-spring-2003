@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains the information regarding a prospectus: franklin
   w. olin college of engineering.'
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/es-291-learning-seminar-experiments-in-education-spring-2003/bdaa848e8488838adf1182f659922642_MITES_291S03_olin_clg_pro.pdf
+file: /courses/es-291-learning-seminar-experiments-in-education-spring-2003/bdaa848e8488838adf1182f659922642_MITES_291S03_olin_clg_pro.pdf
 file_type: application/pdf
 learning_resource_types:
 - Readings
@@ -18,3 +18,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+This resource contains the information regarding a prospectus: franklin w. olin college of engineering.

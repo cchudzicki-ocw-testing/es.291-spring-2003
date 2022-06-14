@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding an option for intellectual
   autonomy.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/es-291-learning-seminar-experiments-in-education-spring-2003/fda8f35c6f6f1dd78348d59f46b48eeb_MITES_291S03_appenEandF.pdf
+file: /courses/es-291-learning-seminar-experiments-in-education-spring-2003/fda8f35c6f6f1dd78348d59f46b48eeb_MITES_291S03_appenEandF.pdf
 file_type: application/pdf
 learning_resource_types:
 - Readings
@@ -18,3 +18,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+This resource contains the information regarding an option for intellectual autonomy.

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource contains the information regarding evergreen: ever green?'
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/es-291-learning-seminar-experiments-in-education-spring-2003/7bc470b31c6345c3d062d02e8f6c2963_MITES_291S03_evrgrn.pdf
+file: /courses/es-291-learning-seminar-experiments-in-education-spring-2003/7bc470b31c6345c3d062d02e8f6c2963_MITES_291S03_evrgrn.pdf
 file_type: application/pdf
 learning_resource_types:
 - Readings
@@ -17,3 +17,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+This resource contains the information regarding evergreen: ever green?

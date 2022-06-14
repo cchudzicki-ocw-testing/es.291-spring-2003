@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding how children fail, john
   holt.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/es-291-learning-seminar-experiments-in-education-spring-2003/89082e0380b89fea561c10c691df5ae0_MITES_291S03_1b_holt.pdf
+file: /courses/es-291-learning-seminar-experiments-in-education-spring-2003/89082e0380b89fea561c10c691df5ae0_MITES_291S03_1b_holt.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -18,3 +18,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+This resource contains the information regarding how children fail, john holt.

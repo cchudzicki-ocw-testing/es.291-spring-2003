@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains the information regarding antioch: vision and
   revision.'
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/es-291-learning-seminar-experiments-in-education-spring-2003/4c19ab24b75c771e9c5e9a21f7d61a6f_MITES_291S03_antioch.pdf
+file: /courses/es-291-learning-seminar-experiments-in-education-spring-2003/4c19ab24b75c771e9c5e9a21f7d61a6f_MITES_291S03_antioch.pdf
 file_type: application/pdf
 learning_resource_types:
 - Readings
@@ -18,3 +18,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+This resource contains the information regarding antioch: vision and revision.
