@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains discussion questions associated with many of the
+  readings.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This page provides a list of readings on educational research and alternative
+  programs. '
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
